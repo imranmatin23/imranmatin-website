@@ -101,11 +101,6 @@
         "name": "Jenkins",
         "description": "WIP.",
         "image": "jenkins.png"
-      },
-      {
-        "name": "React/React Native",
-        "description": "WIP.",
-        "image": "react.jpg"
       }
     ]
   },
