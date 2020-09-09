@@ -112,10 +112,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Triton Robosub",
+        "category": "Underwater Autonomous Vehicles Club",
+        "image": "tritonrobosub.jpeg",
+        "url": "http://robosub.ucsd.edu/"
+      },
+      {
+        "title": "BitFit",
+        "category": "iOS exercise app created with React Native and Flask",
+        "image": "bitfit.png",
+        "url": "https://github.com/imranmatin23/BitFit"
+      },
+      {
+        "title": "Fi@UCSD",
+        "category": "Competition Team to create a low-power ventilator for COVID-19.",
+        "image": "fi-ventilator.jpg",
+        "url": "https://github.com/imranmatin23/Fi-Ventilator-Project"
       }
     ]
   }
