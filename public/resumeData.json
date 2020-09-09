@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Imran Matin",
+    "occupation": "Software Engineer",
+    "description": "I love solving challenging problems, pushing myself outside of my comfort zone and enjoying life while I am at it too",
+    "image": "profilepic.jpg",
+    "bio": "I am avid soccer player who loves to exercise. During the past couple of years I have been at UC San Diego where I have been exploring my interests in Computer Science, entrepreneurship, and surfing! I am now looking towards the future to see what I can achieve and how I can make my impact on the world.",
+    "contactmessage": "Please contact me through email, using the email address on the site.",
+    "email": "imranmatin23@gmail.com",
+    "phone": "(510) 557-3939",
+    "address": {
+      "street": "7760 Knollbrook Dr.",
+      "city": "Pleasanton",
+      "state": "CA",
+      "zip": "94588"
+    },
+    "website": "http://www.imranmatin.com",
+    "resumedownload": "https://drive.google.com/file/d/1kz3SvVZwXvjinx9aAogN_k7PBpoSlm7u/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/imranmatin/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/imranmatin23",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technologies that I've enjoyed working with since I started programming in 2016.",
+    "education": [
+      {
+        "school": "University of California San Diego",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "June 2021",
+        "description": "By entering the school as an undeclared major, then studying data science for two years, then converting to computer science, I have learned a lot at UC San Diego. I played on the UCSD Men's Club Soccer Team and was in my fraternity, Tau Kappa Epsilon, for all four years."
+      }
+    ],
+    "work": [
+      {
+        "company": "UC San Diego",
+        "title": "Computer Science Tutor",
+        "years": "March 2019 - Present",
+        "description": "I love to tutor students at UCSD as it was really what got me to where I am today in my studies. I have tutored Data Science courses in Python and Computer Science courses in C."
+      },
+      {
+        "company": "Apple",
+        "title": "Software Engineer Intern",
+        "years": "June 2020 - September 2020",
+        "description": "I worked on the Cloud Technologies Team at Apple. I worked alongside Apple and Google Cloud engineers to bring the Google Cloud Platform to Apple."
+      },
+      {
+        "company": "Scripps Institute of Oceanography, Innovative Marine Technology Lab",
+        "title": "Software Engineer",
+        "years": "October 2019 - September 2020",
+        "description": "I assisted in research under Dale Stokes and Grant Deane. I designed and implemented a complex system containing multiple onboard Linux computers, sensors, and cameras for a semi-autonomous marine research machine."
+      },
+      {
+        "company": "Neocortex Ventures",
+        "title": "Data Science Intern",
+        "years": "October 2018 - December 2018",
+        "description": "I joined this startup to explore the field of Data Science, and I learned about how to process and clean big data. "
+      },
+      {
+        "company": "Flex",
+        "title": "Cloud Communications and Solutions Developer Intern",
+        "years": "June 2018 - September 2018",
+        "description": "I automated testing practices using Ansible as well as developed an application that seamlessly integrated failed test results from Ansible tests into JIRA bugs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "description": "WIP.",
+        "image": "git.png"
+      },
+      {
+        "name": "Python",
+        "description": "WIP.",
+        "image": "python.png"
+      },
+      {
+        "name": "AWS",
+        "description": "WIP.",
+        "image": "aws.png"
+      },
+      {
+        "name": "Google Cloud",
+        "description": "WIP.",
+        "image": "gcp.png"
+      },
+      {
+        "name": "Terraform",
+        "description": "WIP.",
+        "image": "terraform.png"
+      },
+      {
+        "name": "Jenkins",
+        "description": "WIP.",
+        "image": "jenkins.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Triton Robosub",
+        "category": "Underwater Autonomous Vehicles Club",
+        "image": "tritonrobosub.jpeg",
+        "url": "http://robosub.ucsd.edu/"
+      },
+      {
+        "title": "BitFit",
+        "category": "iOS exercise app created with React Native and Flask",
+        "image": "bitfit.png",
+        "url": "https://github.com/imranmatin23/BitFit"
+      },
+      {
+        "title": "Fi@UCSD",
+        "category": "Competition Team to create a low-power ventilator for COVID-19.",
+        "image": "fi-ventilator.jpg",
+        "url": "https://github.com/imranmatin23/Fi-Ventilator-Project"
+      }
+    ]
+  }
+}
