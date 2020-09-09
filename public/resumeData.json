@@ -30,63 +30,87 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Technologies that I've enjoyed working with since I started programming in 2016.",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of California San Diego",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "June 2021",
+        "description": "By entering the school as an undeclared major, then studying data science for two years, then converting to computer science, I have learned a lot at UC San Diego. I played on the UCSD Men's Club Soccer Team and was in my fraternity, Tau Kappa Epsilon, for all four years."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "UC San Diego",
+        "title": "Computer Science Tutor",
+        "years": "March 2019 - Present",
+        "description": "I love to tutor students at UCSD as it was really what got me to where I am today in my studies. I have tutored Data Science courses in Python and Computer Science courses in C."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Apple",
+        "title": "Software Engineer Intern",
+        "years": "June 2020 - September 2020",
+        "description": "I worked on the Cloud Technologies Team at Apple. I worked alongside Apple and Google Cloud engineers to bring the Google Cloud Platform to Apple."
+      },
+      {
+        "company": "Scripps Institute of Oceanography, Innovative Marine Technology Lab",
+        "title": "Software Engineer",
+        "years": "October 2019 - September 2020",
+        "description": "I assisted in research under Dale Stokes and Grant Deane. I designed and implemented a complex system containing multiple onboard Linux computers, sensors, and cameras for a semi-autonomous marine research machine."
+      },
+      {
+        "company": "Neocortex Ventures",
+        "title": "Data Science Intern",
+        "years": "October 2018 - December 2018",
+        "description": "I joined this startup to explore the field of Data Science, and I learned about how to process and clean big data. "
+      },
+      {
+        "company": "Flex",
+        "title": "Cloud Communications and Solutions Developer Intern",
+        "years": "June 2018 - September 2018",
+        "description": "I automated testing practices using Ansible as well as developed an application that seamlessly integrated failed test results from Ansible tests into JIRA bugs."
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "description": "WIP.",
+        "image": "git.png"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Python",
+        "description": "WIP.",
+        "image": "python.png"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "AWS",
+        "description": "WIP.",
+        "image": "aws.png"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Google Cloud",
+        "description": "WIP.",
+        "image": "gcp.png"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "Terraform",
+        "description": "WIP.",
+        "image": "terraform.png"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Jenkins",
+        "description": "WIP.",
+        "image": "jenkins.png"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "React/React Native",
+        "description": "WIP.",
+        "image": "react.png"
+      },
+      {
+        "name": "Google",
+        "description": "WIP.",
+        "image": "google.png"
       }
     ]
   },
@@ -97,30 +121,6 @@
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
       }
     ]
   }
